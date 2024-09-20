@@ -26,4 +26,4 @@ In the output, you'll find options to open the app in a
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-Playing piano sound is implemented by using [webview](https://github.com/react-native-webview/react-native-webview) and [Tone.js](https://tonejs.github.io/).
+[Webview](https://github.com/react-native-webview/react-native-webview) and [Tone.js](https://tonejs.github.io/) are used to implement the piano sound.
